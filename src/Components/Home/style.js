@@ -22,7 +22,7 @@ export const SContent = styled.div`
     left: 0;
     width: 51px;
     height: 4px;
-    background: #faa446;
+    background: #13C081;
   }
 
   .content__subtitle {
