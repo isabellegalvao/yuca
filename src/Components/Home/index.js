@@ -12,7 +12,7 @@ export default function Home({ data }) {
 
           <SCard>
             <picture className="card__img">
-              <img src={data.apartment.image} />
+              <img src={data.apartment.image} alt={"Apartamento " + data.apartment.name}/>
             </picture>
             <div className="card__wrapper">
               <p className="card__title">
