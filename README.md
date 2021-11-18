@@ -4,11 +4,12 @@
 
 ## 🖥️ Live Version
 
+https://yuca-test-isabelle.netlify.app/
 
 ## ⚙️ Running the application
 
-- `git clone `
-- `cd `
+- `git clone https://github.com/isabellegalvao/yuca`
+- `cd yuca`
 - `yarn install`
 - `yarn start`
 
